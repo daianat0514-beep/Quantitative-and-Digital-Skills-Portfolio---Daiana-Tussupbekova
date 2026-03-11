@@ -1,0 +1,2 @@
+﻿Skills Paragraph
+Customer transaction data were analyzed using spreadsheet tools to evaluate customer behavior and purchasing patterns. Decile and cohort analysis were applied to segment customers and examine how customer activity changes over time. The percentage of active customers and indicators such as average order value (AOV) and average order frequency (AOF) were calculated to assess customer engagement and spending behavior. Charts and visualizations were created to support the analysis and compare trends across different customer cohorts.
