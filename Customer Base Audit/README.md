@@ -1,0 +1,2 @@
+This project analyzes customer transaction data to evaluate how revenue and activity are distributed across customers. A decile analysis was conducted to group customers based on their contribution to total revenue and profit, allowing identification of the most valuable customer segments. 
+Cohort analysis grouped customers according to the quarter of their first transaction to observe how customer activity changes over time. The analysis highlights differences in purchasing behavior accross customer groups and time periods. 
