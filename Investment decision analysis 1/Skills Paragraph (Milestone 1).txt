@@ -1,0 +1,2 @@
+﻿Short Skills Paragraph
+This project demonstrates quantitative analysis skills applied to financial data. The analysis involved calculating stock returns, applying descriptive statistics, and performing hypothesis testing using chi-square and F-tests. In addition, CAMP regression was used to evaluate the relationship between stock returns and overall market performance. The project also required working with financial datasets, organizing data in spreadsheets, and interpreting statistical results in the context of investment risk.
